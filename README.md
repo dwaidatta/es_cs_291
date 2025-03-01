@@ -1,2 +1,2 @@
-# es-cs-291
+# ES-CS-291
 Programming for Problem Solving Lab
